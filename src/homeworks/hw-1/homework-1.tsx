@@ -21,7 +21,7 @@ const USERS = [
 export const Homework1 = () => {
   return (
     <section id={'hw01'}>
-      <h2>homework 1</h2>
+      <h2>Homework 1</h2>
       <UserList users={USERS} />
     </section>
   )
