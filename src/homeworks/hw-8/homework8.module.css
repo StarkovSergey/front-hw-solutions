@@ -1,0 +1,22 @@
+.box {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.orderForm {
+  margin-bottom: 20px;
+}
+
+.inputDrink,
+.inputQuantity {
+  margin-right: 10px;
+  padding: 5px;
+}
+
+.inputQuantity {
+  width: 70px;
+}
+
+.buttonAdd {
+  margin-left: 10px;
+}

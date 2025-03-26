@@ -1,0 +1,13 @@
+.done {
+  background-color: #d8fbd8;
+}
+
+.label {
+  padding: 8px;
+  cursor: pointer;
+}
+
+.checkbox {
+  transform: scale(1.2);
+  cursor: pointer;
+}

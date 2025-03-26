@@ -1,0 +1,24 @@
+.box {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 20px;
+  margin: 20px auto;
+  max-width: 500px;
+}
+
+.cardTitle {
+  margin: 0;
+}
+
+.textField {
+  max-width: 300px;
+}
+
+.green {
+  background-color: green;
+}
+
+.green:hover {
+  background-color: darkgreen;
+}
